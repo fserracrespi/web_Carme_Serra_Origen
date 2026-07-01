@@ -366,7 +366,7 @@ export const Footer = ({ lang }: { lang: Language }) => {
             <a href="mailto:carmeserracrespi@gmail.com" className="text-xl md:text-2xl hover:italic transition-all flex items-center gap-4 font-avenir font-thin tracking-wide text-[16px]">
               <Mail size={20} /> carmeserracrespi@gmail.com
             </a>
-            <a href="https://www.instagram.com/carmeserra.origen?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" className="text-xl md:text-2xl hover:italic transition-all flex items-center gap-4 font-avenir font-thin tracking-wide text-[16px]">
+            <a href="https://www.instagram.com/carme.serra_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" className="text-xl md:text-2xl hover:italic transition-all flex items-center gap-4 font-avenir font-thin tracking-wide text-[16px]">
               <Instagram size={20} /> @carmeserra.origen
             </a>
           </div>
@@ -377,7 +377,7 @@ export const Footer = ({ lang }: { lang: Language }) => {
             © {new Date().getFullYear()} <img src="/brand/firma_blanca.png" alt="Carme Serra" className="h-10 opacity-70" />. {t.rights}
           </span>
           <div className="flex gap-8">
-            <a href="https://www.instagram.com/carmeserra.origen?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" className="text-[10px] uppercase tracking-[0.2em] opacity-50 hover:opacity-100 transition-opacity">Instagram</a>
+            <a href="https://www.instagram.com/carme.serra_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" className="text-[10px] uppercase tracking-[0.2em] opacity-50 hover:opacity-100 transition-opacity">Instagram</a>
             <a href="https://es.linkedin.com/in/carme-serra-crespí-84bb56334" className="text-[10px] uppercase tracking-[0.2em] opacity-50 hover:opacity-100 transition-opacity">LinkedIn</a>
           </div>
         </div>

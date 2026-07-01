@@ -534,7 +534,7 @@ export default function App() {
                 <span className="block text-[10px] uppercase tracking-[0.3em] font-sans font-semibold mb-4 opacity-70">
                   {lang === 'es' ? 'REDES SOCIALES' : 'SOCIAL MEDIA'}
                 </span>
-                <a href="https://www.instagram.com/carmeserra.origen?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" className="text-lg md:text-xl font-avenir font-thin underline underline-offset-8 decoration-brand-dark/20 hover:decoration-brand-dark transition-all">
+                <a href="https://www.instagram.com/carme.serra_" className="text-lg md:text-xl font-avenir font-thin underline underline-offset-8 decoration-brand-dark/20 hover:decoration-brand-dark transition-all">
                   @carmeserra.origen
                 </a>
               </div>
